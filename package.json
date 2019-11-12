@@ -21,10 +21,7 @@
     "src",
     "dist"
   ],
-  "scripts": {
-    // "build": "rm -rf ./dist && yarn lint && tsc",
-    // "lint": "tslint -c tslint.json --project tsconfig.json --fix"
-  },
+  "scripts": {},
   "dependencies": {
     "d3-cloud": "^1.2.5",
     "react-measure": "^2.2.4"
